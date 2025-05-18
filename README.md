@@ -27,9 +27,6 @@ Applied Python, R, and Power BI for geospatial, time-series, and predictive mode
 - Motorist injuries dominate; pedestrian/cyclist risk varies by time
 - Random Forest variable importance shifts by year — showing policy impact
 
-## 📎 Certificate of Completion
-[View PDF](https://drive.google.com/file/d/1mlu7YLBL3PVoRnP71pamC3YQ7QxuMoP1/view?usp=share_link)
-
 ## 📊 Visual Highlights
 - Power BI dashboard (.pbix)
 - Heatmaps of injury risk by borough

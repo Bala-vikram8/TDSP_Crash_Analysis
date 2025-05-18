@@ -1,33 +1,42 @@
-# Transportation Data Science Project (TDSP)
+# 🚦 NYC Traffic Safety Analysis – TDSP Project
 
-A data-driven road safety project completed through the **National Student Data Corps** in collaboration with the **U.S. Department of Transportation**.
+This project was completed under the **Transportation Data Science Project (TDSP)** in collaboration with the **National Student Data Corps (NSDC)** and **U.S. Department of Transportation**.
 
-## Project Summary
--> Analyzed over 30,000 records of motor vehicle collision data from New York City.
--> Identified boroughs and time periods with the highest crash-related injuries and fatalities, and proposed strategies to support safer road infrastructure for vulnerable road users.
--> Used Python, R, and Power BI for time-series, geospatial, and severity-level analysis; created interactive dashboards and visuals that highlight safety hotspots and policy opportunities.
+## 🧠 Project Summary
 
-## Tools & Technologies
-- Python (Google Colab)
+**What I Did:**  
+Analyzed NYC motor vehicle collision data across boroughs and years to identify high-risk zones and injury predictors.
+
+**Impact Achieved:**  
+Discovered borough-specific injury spikes (especially in the Bronx), temporal trends (e.g., evening rush hours), and actionable insights for city safety policy.
+
+**How I Did It:**  
+Applied Python, R, and Power BI for geospatial, time-series, and predictive modeling. Used Random Forest to rank variables and inform prescriptive strategies.
+
+## 🔧 Tools & Techniques
+- Python (Jupyter, sklearn)
 - R & RMarkdown
-- Power BI (.pbix)
-- Excel (Pivot tables)
-- GitHub (project sharing)
+- Power BI (Interactive Dashboards)
+- Feature Importance Analysis
+- Time Series and Borough-Based Aggregations
 
-## Key Insights
--> Most severe crashes occur during morning and evening rush hours.
--> Brooklyn and Manhattan had the highest rates of pedestrian injuries.
--> Intersections with overlapping school/pedestrian zones showed repeated injury clusters.
+## 📈 Key Findings
+- Bronx is the highest risk borough for injuries
+- Evening rush hours (3 PM–6 PM) show peak injury risk
+- Fatalities are more likely from 2 AM–4 AM (potential DUI correlation)
+- Motorist injuries dominate; pedestrian/cyclist risk varies by time
+- Random Forest variable importance shifts by year — showing policy impact
 
-## Visual Outputs
-->  Geospatial injury heatmaps
+## 📎 Certificate of Completion
+[View PDF](https://drive.google.com/file/d/1mlu7YLBL3PVoRnP71pamC3YQ7QxuMoP1/view?usp=share_link)
 
-->  Time-series charts by hour and day
+## 📊 Visual Highlights
+- Power BI dashboard (.pbix)
+- Heatmaps of injury risk by borough
+- Injury prediction using Random Forest (Python/R)
 
-->  Borough-level injury dashboards (Power BI)
-
-## Certificate of Completion
-[View TDSP Certificate](https://drive.google.com/file/d/1mlu7YLBL3PVoRnP71pamC3YQ7QxuMoP1/view?usp=share_link)
+## 🎓 Program
+Project submitted through TDSP’s Explorer Program via NSDC and Northeast Big Data Innovation Hub.
 
 ## Program
 This project was developed as part of the **Explorer TDSP**, hosted by the **Northeast Big Data Innovation Hub** and the **NSDC**, with support from the **U.S. DOT Federal Highway Administration**.

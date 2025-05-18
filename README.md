@@ -35,7 +35,9 @@ Applied Python, R, and Power BI for geospatial, time-series, and predictive mode
 ## 📎 Project Artifacts
 
 📈 [View Interactive Power BI Dashboard](https://app.powerbi.com/links/EZK8-Hf7si?ctid=750d3a3f-1f46-4da2-8a64-7605e75ea2f9&pbi_source=linkShare)  
+
 🖼 [View Scientific Research Poster (PDF)](https://drive.google.com/file/d/1uGuFwUfUfNuSL1c7j_vgpQtK4QhnuuLG/view?usp=share_link) 
+
 🎓 [Certificate of Completion (NSDC + USDOT)](https://drive.google.com/file/d/1mlu7YLBL3PVoRnP71pamC3YQ7QxuMoP1/view?usp=share_link)
 
 ## 🎓 Program

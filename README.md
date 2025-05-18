@@ -21,7 +21,9 @@ A data-driven road safety project completed through the **National Student Data 
 
 ## Visual Outputs
 ->  Geospatial injury heatmaps
+
 ->  Time-series charts by hour and day
+
 ->  Borough-level injury dashboards (Power BI)
 
 ## Certificate of Completion
